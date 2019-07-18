@@ -1,4 +1,4 @@
----
+ a---
 title: "About admin roles in the Microsoft 365 admin center"
 ms.author: cmcatee
 author: cmcatee-MSFT
@@ -25,7 +25,7 @@ description: "Admin roles map to business functions and give permissions to do s
 
 # About admin roles
 
-Your subscription comes with a set of admin roles that you can to users in your organization. Each admin role maps to common business functions and gives people in your organization permissions to do specific tasks in the admin centers. For more information, see [Assign admin roles](assign-admin-roles.md)
+Your subscription comes with a set of admin roles that you can assign to users in your organization. Each admin role maps to common business functions and gives people in your organization permissions to do specific tasks in the admin centers. For more information, see [Assign admin roles](assign-admin-roles.md)
 
 ## Things to consider...
 
